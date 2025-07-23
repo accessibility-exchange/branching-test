@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1](https://github.com/accessibility-exchange/branching-test/compare/v0.3.0...v0.3.1) (2025-07-23)
+
+
+### Bug Fixes
+
+* resolve an urgent issue ([e0141f0](https://github.com/accessibility-exchange/branching-test/commit/e0141f0bc70fc9480946ece1a54bb0161f105652))
+* target hotfix separately ([e49f4b9](https://github.com/accessibility-exchange/branching-test/commit/e49f4b998c07efbb1a298ed9c85b9dd7127d0f0e))
+
 ## [0.3.0](https://github.com/accessibility-exchange/branching-test/compare/v0.2.0...v0.3.0) (2025-07-23)
 
 

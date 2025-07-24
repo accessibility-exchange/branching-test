@@ -7,14 +7,7 @@
   "pull-request-title-pattern": "chore(release): release ${version}",
   "packages": {
     ".": {
-      "package-name": "accessibility-exchange/branching-test",
-      "extra-files": [
-        {
-          "type": "json",
-          "path": ".github/pre-release-manifest.json",
-          "jsonpath": "$[\".\"]"
-        }
-      ]
+      "package-name": "accessibility-exchange/branching-test"
     }
   }
 }

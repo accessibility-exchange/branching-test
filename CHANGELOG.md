@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0-rc.1](https://github.com/accessibility-exchange/branching-test/compare/v0.4.0-rc...v0.4.0-rc.1) (2025-07-24)
+
+
+### Bug Fixes
+
+* prerelease manifest ([#9](https://github.com/accessibility-exchange/branching-test/issues/9)) ([2115231](https://github.com/accessibility-exchange/branching-test/commit/2115231dbe7b26c784ca2def5f08c654263a2bb9))
+
 ## [0.4.0-rc](https://github.com/accessibility-exchange/branching-test/compare/v0.3.0...v0.4.0-rc) (2025-07-24)
 
 

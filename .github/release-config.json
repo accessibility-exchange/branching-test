@@ -1,17 +1,17 @@
 {
-	"release-type": "php",
-	"include-component-in-tag": false,
-	"pull-request-title-pattern": "chore(release): release ${version}",
-	"packages": {
-		".": {
-			"package-name": "accessibility-exchange/branching-test",
-			"extra-files": [
-				{
-					"type": "json",
-					"path": ".github/release-manifest.json",
-					"jsonpath": "$[\".\"]"
-				}
-			]
-		}
-	}
+  "release-type": "php",
+  "include-component-in-tag": false,
+  "pull-request-title-pattern": "chore(release): release ${version}",
+  "packages": {
+    ".": {
+      "package-name": "accessibility-exchange/branching-test",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": ".github/release-manifest.json",
+          "jsonpath": "$[\".\"]"
+        }
+      ]
+    }
+  }
 }

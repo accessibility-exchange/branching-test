@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-rc.1](https://github.com/accessibility-exchange/branching-test/compare/v0.2.0-rc...v0.2.0-rc.1) (2025-07-24)
+
+
+### Miscellaneous Chores
+
+* **release:** release 0.2.0 ([#14](https://github.com/accessibility-exchange/branching-test/issues/14)) ([0abca6e](https://github.com/accessibility-exchange/branching-test/commit/0abca6e447d23fc2ecc67efda08505a067d7a568))
+
 ## [0.2.0](https://github.com/accessibility-exchange/branching-test/compare/v0.1.0...v0.2.0) (2025-07-24)
 
 
